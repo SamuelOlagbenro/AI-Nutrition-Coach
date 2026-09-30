@@ -9,7 +9,7 @@ Upload a photo of your meal and get an instant, AI-powered calorie and nutrient 
 
 ## 📖 Overview
 
-AI Nutrition Coach is a Flask web app that uses a multimodal large language model to analyze food photos. Upload an image of a meal, ask a question such as *"How many calories are in this food?"*, and receive a structured nutritional assessment in seconds.
+AI Nutrition Coach is a Flask web app that uses a multimodal Large Language Model(LLM) to analyze food photos. Upload an image of a meal, ask a question such as *"How many calories are in this food?"*, and receive a structured nutritional assessment in seconds.
 
 ## ✨ Features
 
@@ -97,4 +97,4 @@ Health Evaluation: A balanced, protein-rich meal with fiber and vitamins.
 - Online deployment (Render, AWS, or Hugging Face Spaces)
 
 ## 👤 Author
-**Samuel**, Data Science Student · AI Engineering Enthusiast
+**Samuel**, Data Scientist · AI Engineer
